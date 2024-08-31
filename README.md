@@ -1,4 +1,4 @@
-<h1>Controle de Estoque</h1>
+<h1>Controle de Estoque!</h1>
 <p>Simulador de controle para estoque de empresas, utilizando a linguagem e lógica de Java. Onde são colocadas as seguintes informações: nome do produto, valor, quantidade no estoque e quantas unidades serão retiradas, para assim calcular os valores.</p>
 <h2>Imagens do projeto</h2>
 <div>
